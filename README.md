@@ -1,2 +1,2 @@
 # namasteReact
-React.js code
+reactjs practice
